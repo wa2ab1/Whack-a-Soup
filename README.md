@@ -3,6 +3,7 @@
 
 Wack-a-soup is a real wack-a-mole game where you get to beat up miniature soups as they pop up. It features a 30 second timer and score counter.
 
+but why Wack a Soup? Have you ever looked at soup and went "That looks so cute I totally want to smash it"? Well now you can! Designed to take out your frustrations at him through Wack a mole!
 features:
 - 5 independantly moving moles
 - game start button
