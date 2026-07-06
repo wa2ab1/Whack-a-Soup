@@ -30,7 +30,9 @@ Koi Hammer
 - DRV883 H-Bridge x 3
 - Motors 7.5V x 5
 
-## Wiring
+## Zine
+<img width=50% alt="image" src="https://github.com/user-attachments/assets/7d0fd895-8f49-4302-bc3d-15496ae00ec1" />
+
 
 ## Firmware
 
