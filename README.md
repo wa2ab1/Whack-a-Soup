@@ -12,6 +12,9 @@ Soup
 
 <img width=30% alt="image" src="https://github.com/user-attachments/assets/885aa73f-538b-4697-b557-7c3342f50b7b" />
 
+Koi Hammer
+<img width=30% height="598" alt="image" src="https://github.com/user-attachments/assets/a5774d09-1cf1-4f4f-8b16-8874e4784eb5" />
+
 
 ## Components 
 - soup model x5 
