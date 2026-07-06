@@ -5,10 +5,12 @@ Have you ever looked at soup and went "That looks so cute I totally want to smas
 
 ## Models
 Rack and Pinion modified from [@user_3285456170 on Makerworld](https://makerworld.com/en/models/772638-rack-and-pinion-for-6-mm-shaft?from=search#profileId-710441) 
-<img width=50% alt="image" src="https://github.com/user-attachments/assets/016c2d06-2f7e-429d-acba-6e02ad4d2387" />
+
+<img width=30% alt="image" src="https://github.com/user-attachments/assets/016c2d06-2f7e-429d-acba-6e02ad4d2387" />
 
 Soup 
-<img width=50% alt="image" src="https://github.com/user-attachments/assets/885aa73f-538b-4697-b557-7c3342f50b7b" />
+
+<img width=30% alt="image" src="https://github.com/user-attachments/assets/885aa73f-538b-4697-b557-7c3342f50b7b" />
 
 
 ## Components 
